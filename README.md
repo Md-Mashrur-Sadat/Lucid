@@ -1,2 +1,2 @@
 # Lucid
-A PSD to html webpage design using html, css, bootstrap.
+A PSD to HTML webpage design using HTML, CSS, Bootstrap.
